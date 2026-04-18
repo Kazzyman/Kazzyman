@@ -6,3 +6,6 @@
 Kazzyman/Kazzyman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+## Pi & Friends Web Suite
+An interactive suite of π calculation algorithms implemented in Go.
+[Live demo](https://piandfriends.onrender.com) · [Source code](https://github.com/Kazzyman/PiAndFriendsWeb)
